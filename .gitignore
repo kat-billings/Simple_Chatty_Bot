@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Topics/Integer types and operations/Squirrels and nuts/out/
+/Topics/Integer types and operations/Squirrels and nuts/out/production/classes/
+/Topics/Printing data/Printing a magic letter/out/
+/Topics/Printing data/Printing a magic letter/out/production/classes/
+/Topics/The for-loop/The product of numbers from a to b/out/
+/Topics/The for-loop/The product of numbers from a to b/out/production/classes/
